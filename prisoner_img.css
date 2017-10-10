@@ -1,0 +1,16 @@
+#container{
+  border:1px solid red;
+  display:inline-block;
+  margin-top:30px;
+  position:relative;
+}
+
+#img{
+  border:1px solid yellow;
+  bottom:0;
+  left:0;
+  margin:auto;
+  position:absolute;
+  right:0;
+  top:0;
+}
